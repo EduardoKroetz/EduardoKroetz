@@ -42,3 +42,5 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoKroetz&layout=donut-vertical" alt="Top Langs" />
 </p>
+
+<img src="https://raw.githubusercontent.com/EduardoKroetz/EduardoKroetz/output/snake.svg" alt="Snake animation" />
