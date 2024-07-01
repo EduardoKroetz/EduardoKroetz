@@ -18,8 +18,8 @@
 <h2>🌐 Conecte-se Comigo</h2>
 
 <p align="left">
-<a href="https://linkedin.com/in/eduardo-kroetz-54a81a2b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-kroetz-54a81a2b3" height="30" width="40" /></a>
-<a href="https://instagram.com/_dukroetz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dukroetz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eduardo-kroetz-54a81a2b3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-kroetz-54a81a2b3" height="30" width="40" /></a>
+<a href="https://instagram.com/_dukroetz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dukroetz" height="30" width="40" /></a>
 </p>
 
 
