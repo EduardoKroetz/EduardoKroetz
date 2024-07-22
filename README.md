@@ -1,4 +1,14 @@
 <h1 align="center">Olá 👋, Eu sou o Eduardo Kroetz</h1>
+
+
+<p align="center">
+  <a href="https://eduardokroetz.tech" target="_blank">Portfólio</a>
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/eduardo-kroetz-54a81a2b3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-kroetz-54a81a2b3" height="30" width="40" /></a>
+  <a href="https://instagram.com/_dukroetz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dukroetz" height="30" width="40" /></a>
+</p>
+
 <h3 align="center">Sou um estudante brasileiro de 16 anos apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou aprendendo a linguagem de programação C# e o framework .NET. Também tenho conhecimentos básicos em frontend com HTML, CSS, JavaScript e React.js. Tenho muito interesse em desenvolvimento de software e estou sempre em busca de aprender mais e melhorar minhas habilidades.</h3>
 
 
@@ -10,14 +20,6 @@
 - 🌐 Conhecimentos básicos em HTML, CSS, JavaScript e React.js
 - 🌱 Interessado em desenvolvimento de software e novas tecnologias
 - ⚽️ Apaixonado por futebol e esportes
-
-
-<h2>🌐 Conecte-se Comigo</h2>
-
-<p align="left">
-<a href="https://linkedin.com/in/eduardo-kroetz-54a81a2b3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-kroetz-54a81a2b3" height="30" width="40" /></a>
-<a href="https://instagram.com/_dukroetz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dukroetz" height="30" width="40" /></a>
-</p>
 
 
 <h2>🛠️ Linguagens e Ferramentas</h2>
