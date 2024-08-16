@@ -9,7 +9,7 @@
   <a href="https://instagram.com/_dukroetz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dukroetz" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Sou um estudante brasileiro de 16 anos apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou aprendendo a linguagem de programação C# e o framework .NET. Também tenho conhecimentos básicos em frontend com HTML, CSS, JavaScript e React.js. Tenho muito interesse em desenvolvimento de software e estou sempre em busca de aprender mais e melhorar minhas habilidades.</h3>
+<h3 align="center">Sou um estudante brasileiro de 17 anos apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou aprendendo a linguagem de programação C# e o framework .NET. Também tenho conhecimentos em frontend com React.js, Angular, HTML, CSS e JavaScript. Tenho muito interesse em desenvolvimento de software e estou sempre em busca de aprender mais e melhorar minhas habilidades.</h3>
 
 
 <h2>🧑‍💻 Sobre Mim</h2>
@@ -17,7 +17,7 @@
 - 🇧🇷 Brasileiro
 - 📚 Estudante
 - 💻 Aprendendo C# e .NET
-- 🌐 Conhecimentos básicos em HTML, CSS, JavaScript e React.js
+- 🌐 Conhecimentos de frontend em React.js, Angular, HTML, CSS e JavaScript
 - 🌱 Interessado em desenvolvimento de software e novas tecnologias
 - ⚽️ Apaixonado por futebol e esportes
 
