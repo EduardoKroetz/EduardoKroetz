@@ -19,8 +19,6 @@
 - 💻 Expandindo conhecimentos em C# e .NET
 - 🌐 Conhecimentos de frontend em React.js, Angular, HTML, CSS e JavaScript
 - 🌱 Interessado em desenvolvimento de software e novas tecnologias
-- ⚽️ Apaixonado por futebol e esportes
-
 
 <h2>🛠️ Linguagens e Ferramentas</h2>
 
