@@ -16,7 +16,7 @@
 
 - 🇧🇷 Brasileiro
 - 📚 Estudante
-- 💻 Expandindo conhecimentos em C# e .NET
+- 💻 Conhecimentos em C# e .NET
 - 🌐 Conhecimentos de frontend em React.js, Angular, HTML, CSS e JavaScript
 - 🌱 Interessado em desenvolvimento de software e novas tecnologias
 
