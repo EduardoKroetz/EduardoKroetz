@@ -9,16 +9,11 @@
   <a href="https://instagram.com/_dukroetz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dukroetz" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Sou um desenvolvedor backend com paixão por criar soluções que agreguem valor às pessoas. Dedico grande parte do meu tempo a aprimorar minhas habilidades em .NET, minha principal especialidade. Além disso, tenho conhecimentos em frontend, utilizando frameworks como React e Angular. Atualmente, estou em busca de uma oportunidade como desenvolvedor .NET Júnior, seja como FullStack ou focado apenas no backend.</h3>
-
-
 <h2>🧑‍💻 Sobre Mim</h2>
 
 - 🇧🇷 Brasileiro
-- 📚 Estudante
-- 💻 Conhecimentos em C# e .NET
-- 🌐 Conhecimentos de frontend em React.js, Angular, HTML, CSS e JavaScript
-- 🌱 Interessado em desenvolvimento de software e novas tecnologias
+- 💻 Desenvolvedor .NET
+- 🌐 Conhecimentos de frontend em Razor, React.js, Angular, HTML, CSS e JavaScript
 
 <h2>🛠️ Linguagens e Ferramentas</h2>
 
