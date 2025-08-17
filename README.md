@@ -2,10 +2,8 @@
 
 
 <p align="center">
-</p>
-<p align="center">
     <a href="https://eduardokroetz.site" target="_blank">
-      <img align="center" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" height="30" width="40" />
+      <img align="center" src="https://cdn-icons-png.flaticon.com/512/5339/5339181.png" width="40" />
     </a>
     <a href="https://linkedin.com/in/eduardo-kroetz-54a81a2b3" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-kroetz-54a81a2b3" height="30" width="40" />
